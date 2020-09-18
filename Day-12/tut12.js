@@ -26,3 +26,19 @@ console.log(a);
 a = document.links;    // print the link 
 console.log(a);
 
+a = document.all;
+a.forEach(function(element){
+    console.log(element);
+})
+console.log(a);
+
+/* a.forEach is not a function..so this 
+gives an error, to avoid this we use 
+"array.from".
+in this case array creates a collection of HTML.
+*/
+
+Array.from(a).forEach(function(element){
+    console.log(element);
+})
+console.log(a);
