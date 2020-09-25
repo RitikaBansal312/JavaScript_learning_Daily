@@ -1,4 +1,4 @@
-console.log('This is tut 18');
+console.log('JavaScript_Learning_Day-18');
 
 // More on JavaScript Events
 
