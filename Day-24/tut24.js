@@ -1,4 +1,4 @@
-console.log('welcome to tut 24');
+console.log('JavaScript_Learning_Day-24');
 
 // Object Literals, Constructors and Object Oriented JavaScript
 
