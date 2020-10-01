@@ -1,4 +1,4 @@
-console.log("JavaScript_Learning_Day-23");
+console.log("JavaScript_Learning_Day-25");
 
 // Object Prototype In javascript
 
