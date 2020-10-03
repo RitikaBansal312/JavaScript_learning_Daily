@@ -1,4 +1,4 @@
-console.log("JavaScript_Learning_Day-24");
+console.log("JavaScript_Learning_Day-26");
 
 // Prototype Inheritance In JavaScript
 
