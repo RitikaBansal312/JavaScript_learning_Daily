@@ -17,6 +17,4 @@ setTimeout(() => {
     }
 }, 100);
 
-
-
 console.log('done printing');
