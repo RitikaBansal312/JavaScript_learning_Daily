@@ -2,6 +2,7 @@ console.log("Welcome to notes app. This is app.js");
 showNotes();
 
 // If user adds a note, add it to the localStorage
+
 let addBtn = document.getElementById("addBtn");
 addBtn.addEventListener("click", function (e) {
   let addTxt = document.getElementById("addTxt");
@@ -25,6 +26,7 @@ addBtn.addEventListener("click", function (e) {
 })
 
 // Function to show elements from localStorage
+
 function showNotes() {
   let notes = localStorage.getItem("notes");
   if (notes == null) {
@@ -53,6 +55,7 @@ function showNotes() {
 }
 
 // Function to delete a note
+
 function deleteNote(index) {
   // console.log("I am deleting", index);
   let notes = localStorage.getItem("notes");
@@ -83,6 +86,7 @@ search.addEventListener("input", function () {
     // console.log(cardTxt);
   })
 })
+
 /*
 Further Features:
 1. Add Title
