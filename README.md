@@ -1,2 +1,2 @@
 # JavaScript_learning_Daily
-code karien bina dare
+code karien bina
