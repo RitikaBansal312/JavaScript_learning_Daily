@@ -1,1 +1,1 @@
-# JavaScript_learning_Daily let
+# JavaScript_learning_Daily
