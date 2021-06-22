@@ -37,4 +37,3 @@ class Library {
     returnBook(bookname){
         delete this.issuedBooks[bookname];
     }
-}
