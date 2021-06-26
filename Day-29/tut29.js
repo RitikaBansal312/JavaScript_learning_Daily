@@ -38,4 +38,3 @@ class Library {
         delete this.issuedBooks[bookname];
     }
 }
-
