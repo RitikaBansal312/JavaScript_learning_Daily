@@ -1,2 +1,2 @@
 # JavaScript_learning_Daily
-Java Code daily...
+Java Code dail
