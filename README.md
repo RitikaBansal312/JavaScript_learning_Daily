@@ -1,2 +1,2 @@
 # JavaScript_learning_Daily..
-do coding without fear
+do coding without fear.
