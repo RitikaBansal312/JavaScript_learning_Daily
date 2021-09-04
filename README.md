@@ -1,2 +1,1 @@
-# JavaScript_learning_Daily..
-do coding
+# JavaScript_learning_Daily...
